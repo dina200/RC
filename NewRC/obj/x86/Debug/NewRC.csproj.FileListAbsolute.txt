@@ -1,0 +1,17 @@
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Debug\NewRC.Properties.Resources.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Debug\NewRC.csproj.GenerateResource.Cache
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\bin\Debug\NewRC.exe.config
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Debug\NewRC.csprojResolveAssemblyReference.cache
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\bin\Debug\MyDb.mdf
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\bin\Debug\MyDb_log.ldf
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\bin\Debug\NewRC.exe
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\bin\Debug\NewRC.pdb
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Debug\NewRC.ui.Auth.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Debug\NewRC.ui.CreateClientForm.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Debug\NewRC.ui.DBCars.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Debug\NewRC.ui.DBClient.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Debug\NewRC.ui.DBRent.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Debug\NewRC.ui.Regist.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Debug\NewRC.RentCar.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Debug\NewRC.exe
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Debug\NewRC.pdb

@@ -1,0 +1,16 @@
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Release\NewRC.Properties.Resources.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Release\NewRC.csproj.GenerateResource.Cache
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Release\NewRC.ui.Auth.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Release\NewRC.ui.CreateClientForm.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Release\NewRC.RentCar.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\bin\Release\MyDb.mdf
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\bin\Release\MyDb_log.ldf
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\bin\Release\NewRC.exe.config
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\bin\Release\NewRC.exe
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\bin\Release\NewRC.pdb
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Release\NewRC.ui.DBCars.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Release\NewRC.ui.DBClient.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Release\NewRC.ui.DBRent.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Release\NewRC.ui.Regist.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Release\NewRC.exe
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\NewRC\NewRC\obj\x86\Release\NewRC.pdb

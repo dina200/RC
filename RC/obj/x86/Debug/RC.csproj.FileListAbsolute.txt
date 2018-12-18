@@ -1,0 +1,17 @@
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\obj\x86\Debug\RC.Properties.Resources.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\obj\x86\Debug\RC.csproj.GenerateResource.Cache
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\bin\Debug\RC.exe.config
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\bin\Debug\RC.exe
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\bin\Debug\RC.pdb
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\obj\x86\Debug\RC.exe
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\obj\x86\Debug\RC.pdb
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\obj\x86\Debug\RC.RentCar.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\bin\Debug\MyDb.mdf
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\bin\Debug\MyDb_log.ldf
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\obj\x86\Debug\RC.csprojResolveAssemblyReference.cache
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\obj\x86\Debug\RC.ui.Auth.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\obj\x86\Debug\RC.ui.CreateClientForm.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\obj\x86\Debug\RC.ui.DBCars.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\obj\x86\Debug\RC.ui.DBClient.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\obj\x86\Debug\RC.ui.DBRent.resources
+D:\Univer\Семестр 5\Профессиональная практика программной инженерии\projects\RC\RC\obj\x86\Debug\RC.ui.Regist.resources
